@@ -5,9 +5,9 @@
 <h2>Komponen Wajib Dijalankan</h2>
 <p>Instalasi</p>
 
-> $ git clone https://github.com/Adamibnualfatahh/Website-Company-Profile.git
+> $ git clone https://github.com/potatohothot/uaspwl.git
 >
->$ cd Website-Company-Profile
+>$ cd uaspwl
 >
 >$ composer install
 >
